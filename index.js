@@ -24,19 +24,19 @@ const music_list = [
       music : 'musiclist/Adekunle Gold - The Life I Chose (NetNaija.com).mp3'
   },
   {
-    img : 'Images/image7.png',
+    img : 'images/image7.png',
     name : 'For You',
     artist : 'Johnny Drille',
     music : 'musiclist/Johnny Drille - For You (NetNaija.com).mp3'
 },
 {
-  img : 'Images/music4.png',
+  img : 'images/music4.png',
   name : 'All I Want',
   artist : 'Simisola',
   music : 'musiclist/Simi - All I Want (NetNaija.com).mp3'
 },
 {
-  img : 'Images/odumodu.png',
+  img : 'images/odumodu.png',
   name : '100 Million',
   artist : 'Odumodu Black',
   music : 'musiclist/ODUMODUBLVCK - 100 MILLION (feat. Tiwa Savage) (NetNaija.com).mp3'
