@@ -24,22 +24,46 @@ const music_list = [
       music : 'musiclist/Adekunle Gold - The Life I Chose (NetNaija.com).mp3'
   },
   {
-    img : 'images/image7.png',
+    img : 'Images/image7.png',
     name : 'For You',
     artist : 'Johnny Drille',
     music : 'musiclist/Johnny Drille - For You (NetNaija.com).mp3'
 },
 {
-  img : 'images/music4.png',
+  img : 'Images/music4.png',
   name : 'All I Want',
   artist : 'Simisola',
   music : 'musiclist/Simi - All I Want (NetNaija.com).mp3'
 },
 {
-  img : './images/odumodu.png',
+  img : 'Images/odumodu.png',
   name : '100 Million',
   artist : 'Odumodu Black',
   music : 'musiclist/ODUMODUBLVCK - 100 MILLION (feat. Tiwa Savage) (NetNaija.com).mp3'
+},
+{
+  img : 'Images/ritaora.png',
+  name : 'Body On Me (feat. Chris Brown)',
+  artist : 'Rita Ora',
+  music : 'musiclist/Rita_Ora_-_Body_On_Me_(ft._Chris_Brown)_(www.NETNAIJA.com).mp3'
+},
+{
+  img : 'Images/kissdaniel.png',
+  name : 'Pano Tona',
+  artist : 'Kiss Daniel',
+  music : 'musiclist/Kizz Daniel - Pano Tona (with Adekunle Gold) (NetNaija.com).mp3'
+},
+{
+  img : 'Images/mayokun.png',
+  name : 'Innocent (feat. Fireboy DML)',
+  artist : 'Mayokun',
+  music : 'musiclist/Mayorkun - Innocent (feat. Fireboy DML) (NetNaija.com).mp3'
+},
+{
+  img : 'Images/usher.png',
+  name : 'All falls Down',
+  artist : 'Christ Brown',
+  music : 'musiclist/Usher_-_All_Falls_Down_(ft._Chris_Brown)_(www.NETNAIJA.com).mp3'
 }
 ];
 
